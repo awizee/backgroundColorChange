@@ -1,0 +1,12 @@
+{
+  "spellright.language": ["en"],
+  "spellright.documentTypes": ["markdown", "latex", "plaintext", "javascript"],
+  "cSpell.customDictionaries": {
+    "custom-dictionary-workspace": {
+      "name": "custom-dictionary-workspace",
+      "path": "${workspaceFolder:class}/.cspell/custom-dictionary-workspace.txt",
+      "addWords": true,
+      "scope": "workspace"
+    }
+  }
+}

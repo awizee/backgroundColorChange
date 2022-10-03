@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  place-items: center center;
+  width: 100vw;
+  min-height: 100vh;
+  font-family: "courier", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+article {
+  background-color: #ddd;
+  text-align: center;
+  border-radius: 1em;
+  margin: auto;
+  padding: 1em;
+  width: 50%;
+  height: 80%;
+}
+button {
+  padding: 0.9em;
+  border: none;
+  border-radius: 0.3em;
+}
